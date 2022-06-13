@@ -1,11 +1,14 @@
 # amelie
+clone the repository 
 
 ## Project setup
+run this commande below to install all dependencies your project needs to work
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+after this commande run this commande below
 ```
 npm run serve
 ```
@@ -15,10 +18,4 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
